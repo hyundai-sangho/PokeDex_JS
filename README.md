@@ -7,3 +7,5 @@
 3. <https://pokeapi.co/api/v2/pokemon/${id}> api 사용(포켓몬 정보)
 
 4. <https://assets.pokemon.com/assets/cms2/img/pokedex/full/${pokemonId}.png> 사용(포켓몬 이미지)
+
+5. <https://hyundai-sangho.github.io/PokeDex_JS/>
